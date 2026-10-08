@@ -201,7 +201,7 @@ export const personalProjects = [
       "Job APIs"
     ],
 
-    liveUrl: "https://ai-agent-blond-iota.vercel.app/",
+    liveUrl: "https://ai-agent-pmbpplyxa-portfolio-4d61.vercel.app/",
     githubUrl: "",
 
     image: "/projects/ai-job-agent.png"
