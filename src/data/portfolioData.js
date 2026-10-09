@@ -202,7 +202,7 @@ export const personalProjects = [
     ],
 
     liveUrl: "https://ai-agent-pmbpplyxa-portfolio-4d61.vercel.app/",
-    githubUrl: "",
+    githubUrl: "https://github.com/veenasahu-bodex/ai-job-agent",
 
     image: "/projects/ai-job-agent.png"
   },
@@ -223,7 +223,7 @@ export const personalProjects = [
     ],
 
     liveUrl: "https://ai-chartboard2.vercel.app/",
-    githubUrl: "",
+    githubUrl: "https://github.com/veenasahu-bodex/AI-Chartboard2",
 
     image: "/projects/ai-chartboard.png"
   },
@@ -244,7 +244,7 @@ export const personalProjects = [
     ],
 
     liveUrl: "https://notes-management-opal.vercel.app/",
-    githubUrl: "",
+    githubUrl: "https://github.com/veenasahu-bodex/notes-management",
 
     image: "/projects/notes-management.png"
   },
@@ -264,7 +264,7 @@ export const personalProjects = [
     ],
 
     liveUrl: "https://cg-data-rho.vercel.app/",
-    githubUrl: "",
+    githubUrl: "https://github.com/veenasahu-bodex/Cg-data",
 
     image: "/projects/cg-data.png"
   },
@@ -276,8 +276,19 @@ export const personalProjects = [
     "A modern portfolio website showcasing professional profile, skills, projects and development work.",
   technologies: ["React.js", "JavaScript", "CSS", "Vercel"],
   liveUrl: "https://vivek-portfolio-6wel.vercel.app/",
-  githubUrl: "",
+  githubUrl: "https://github.com/veenasahu-bodex/Vivek-Portfolio",
   image: "/projects/vivek-portfolio.png"
+},
+{
+  id: 7,
+  title: "Smart Image Blur",
+  category: "AI & Image Processing",
+  description:
+    "A smart image editing web application that allows users to upload images, select specific areas, apply blur effects, preview changes, and download the edited image.",
+  technologies: ["React.js", "JavaScript", "CSS", "Vercel"],
+  liveUrl: "https://smart-blur.vercel.app/",
+  githubUrl: "https://github.com/veenasahu-bodex/smart-blur",
+  image: "/projects/smart.png"
 },
 ];
 
